@@ -36,3 +36,9 @@
 # 사용법: python recommender.py [Train_File] [Test_File]
 python recommender.py u1.base u1.test
 ```
+
+### 2. 모델 평가 (Evaluation)
+
+```bash
+PA4.exe u1
+```
